@@ -133,6 +133,30 @@ The **TechGear Electronics Customer Support Chatbot** is an advanced AI-powered 
  Response
 ```
 
+### LangGraph Workflow Diagram
+
+```mermaid
+graph TD
+    Start([Customer Query]) --> Classifier[Node 1: Classifier Agent]
+    
+    Classifier -->|Categorize Query| Decision{Orchestrator Agent<br/>Conditional Router}
+    
+    Decision -->|Category: Products| RAG[Node 2: RAG Responder]
+    Decision -->|Category: Returns| RAG
+    Decision -->|Category: General| RAG
+    Decision -->|Category: Unhandled| Escalation[Node 3: Escalation Agent]
+    
+    RAG -->|Generate Response| Response([Final Response])
+    Escalation -->|Escalation Message| Response
+    
+    style Start fill:#e1f5e1
+    style Classifier fill:#fff3cd
+    style Decision fill:#cfe2ff
+    style RAG fill:#d1ecf1
+    style Escalation fill:#f8d7da
+    style Response fill:#e1f5e1
+```
+
 ### Data Flow
 
 ```
@@ -142,6 +166,16 @@ User Query → Classifier → [High Confidence?] → RAG Responder → ChromaDB 
                                      ↓
                             Escalation Agent → Professional Message
 ```
+
+### Agent Workflow Details
+
+| Step | Agent | Input | Output | Action |
+|------|-------|-------|--------|--------|
+| 1 | **Classifier** | User query | Category + Confidence | Categorizes query using Gemini |
+| 2 | **Orchestrator** | Classification result | Route decision | Routes based on confidence ≥ 0.7 |
+| 3a | **RAG Responder** | Query + Category | Natural response | Retrieves from ChromaDB + generates |
+| 3b | **Escalation** | Query + Reason | Escalation message | Provides contact info |
+| 4 | **Response** | Agent output | Final JSON | Returns to user via API |
 
 ---
 
