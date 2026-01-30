@@ -251,13 +251,24 @@ pip install -r requirements.txt
 
 ### Step 4: Set Up Environment Variables
 
-Create a `.env` file in the project root:
+Copy the example environment file and add your API key:
 
 ```bash
-GOOGLE_API_KEY=your_gemini_api_key_here
+# Copy the example file
+cp .env.example .env
+
+# Edit .env and add your actual API key
+nano .env
+```
+
+Your `.env` file should contain:
+```bash
+GOOGLE_API_KEY=your_actual_gemini_api_key_here
 ```
 
 **Get your Gemini API key**: https://makersuite.google.com/app/apikey
+
+⚠️ **IMPORTANT**: Never commit your `.env` file to git. It's already in `.gitignore`.
 
 ### Step 5: Load Knowledge Base
 

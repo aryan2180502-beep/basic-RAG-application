@@ -136,8 +136,15 @@ python escalation_agent.py
 
 All agents use the Gemini API key from `.env`:
 ```
-GOOGLE_API_KEY=AIzaSyD4U_ZruwRB9D_pzxaxU0YD9siUrQ6Vlr8
+GOOGLE_API_KEY=your_gemini_api_key_here
 ```
+
+**Setup Instructions:**
+1. Copy `.env.example` to `.env`
+2. Add your actual Gemini API key
+3. Never commit `.env` to git (it's in `.gitignore`)
+
+**Get API Key:** https://makersuite.google.com/app/apikey
 
 ## Performance Metrics
 
