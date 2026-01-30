@@ -40,6 +40,10 @@ chroma_db/
 # Logs
 *.log
 server.log
+server_output.log
+server_final.log
+server_new.log
+nohup.out
 /tmp/
 
 # IDE
