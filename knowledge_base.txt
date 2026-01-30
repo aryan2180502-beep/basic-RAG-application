@@ -1,0 +1,176 @@
+Product: SmartWatch Pro X
+Price: ₹15,999 | Features: Heart rate, GPS, 7-day battery, water resistant 50m
+Warranty: 1 year standard, 2 years extended (₹1,999)
+
+Product: Wireless Earbuds Elite
+Price: ₹4,999 | Features: ANC, 24-hour battery, Bluetooth 5.2 | Warranty: 6 months
+
+Product: Power Bank Ultra 20000mAh
+Price: ₹2,499 | Features: Fast charging 22.5W, USB-C & USB-A | Warranty: 1 year
+
+Product: Gaming Laptop Beast 15
+Price: ₹89,999 | Features: RTX 4060, Intel i7, 16GB RAM, 512GB SSD, 144Hz display
+Warranty: 2 years comprehensive | Support: Priority tech support included
+
+Product: USB-C Hub Multi-Port 7-in-1
+Price: ₹1,899 | Features: 4K HDMI, USB 3.0, SD card reader, 100W PD charging
+Warranty: 1 year | Compatibility: Mac, Windows, Linux
+
+Product: Mechanical Keyboard RGB
+Price: ₹5,999 | Features: Hot-swap switches, 75% layout, per-key RGB lighting, aluminum frame
+Warranty: 2 years | Warranty: Lifetime customer support
+
+Product: 4K Webcam Pro
+Price: ₹7,499 | Features: 4K@30fps, auto-focus, built-in stereo mic, wide 90° FOV
+Warranty: 1 year | Best for: Video conferencing, streaming, content creation
+
+Product: Portable SSD 1TB Thunder
+Price: ₹8,999 | Features: USB 3.2, 1050MB/s speed, ruggedized, IP55 rated
+Warranty: 3 years | Return: 30-day money-back guarantee
+
+Product: Smart Home Hub Controller
+Price: ₹3,499 | Features: WiFi 6, zigbee support, voice control compatible, app control
+Warranty: 1 year | Compatible with: Alexa, Google Home, Siri
+
+Product: Noise Cancelling Headphones Studio
+Price: ₹9,999 | Features: Active ANC, 30-hour battery, foldable design, Bluetooth 5.3
+Warranty: 1 year | Includes: Carrying case, audio cable, airplane adapter
+
+Product: Wireless Mouse Precision
+Price: ₹999 | Features: 2.4GHz wireless, 12-month battery, precision tracking, ergonomic
+Warranty: 1 year | Compatibility: Mac, Windows, Linux
+
+Product: USB Flash Drive Secure 256GB
+Price: ₹2,999 | Features: Hardware encryption, fast transfer speeds, compact design
+Warranty: Lifetime | Data recovery: Free within 1 year of purchase
+
+Product: Phone Stand Desktop Adjustable
+Price: ₹699 | Features: Aluminum alloy, adjustable angle, holds 4-7 inch phones, non-slip
+Warranty: 6 months | Return: 14-day return policy
+
+Product: Cable Organizer Kit Premium
+Price: ₹799 | Features: 5 cable sleeves, velcro straps, labels, desk mounting clips
+Warranty: Lifetime | Eco-friendly: 100% recyclable materials
+
+Product: Screen Protector Glass Tempered
+Price: ₹499 (Pack of 3) | Features: 9H hardness, anti-glare, easy installation, bubble-free
+Warranty: 6 months | Compatible: iPhone, Samsung, universal sizes available
+
+Product: Laptop Cooling Pad Advanced
+Price: ₹2,199 | Features: Dual fan, USB-C power, adjustable angles, quiet operation
+Warranty: 1 year | Noise level: Under 25dB
+
+Product: Phone Case Protective Rugged
+Price: ₹799 | Features: Military-grade drop protection, wireless charging compatible, slim design
+Warranty: Lifetime against defects | Colors: 12 vibrant options
+
+Product: Car Phone Mount Magnetic
+Price: ₹599 | Features: Magnetic attachment, 360° rotation, dashboard/windshield mounting
+Warranty: 1 year | Works with: All smartphones including large phablets
+
+Product: Desk Lamp LED Smart
+Price: ₹1,599 | Features: Adjustable color temperature, 3 brightness levels, touch control
+Warranty: 1 year | Energy saving: Uses 80% less power than traditional lamps
+
+Product: Monitor Stand Ergonomic Riser
+Price: ₹1,899 | Features: Adjustable height, built-in storage drawer, supports up to 15kg
+Warranty: 2 years | Material: Heavy-duty steel
+
+Product: Keyboard Wrist Rest Memory Foam
+Price: ₹399 | Features: Ergonomic design, non-slip base, waterproof cover, machine washable
+Warranty: 6 months | Length: Fits standard full-size keyboards
+
+Product: Mouse Pad XXL Extended
+Price: ₹599 | Features: Large 900x400mm surface, non-slip rubber base, stitched edges
+Warranty: 1 year | Thickness: 3mm for comfort
+
+Product: USB Cable Braided Fast Charging
+Price: ₹299 (2-pack) | Features: Reinforced nylon braiding, 3A fast charging, 2-meter length
+Warranty: Lifetime against manufacturing defects | Colors: Black, White, Blue, Red
+
+Product: HDMI Cable 2.1 4K Premium
+Price: ₹699 | Features: Supports 8K resolution, 48Gbps bandwidth, gold-plated connectors
+Warranty: 2 years | Length options: 1m, 2m, 3m, 5m available
+
+Product: Power Strip Surge Protector 6-Port
+Price: ₹1,299 | Features: 10A surge protection, 4 USB ports, master switch, child safety locks
+Warranty: 2 years | Certification: ISI, FCC approved
+
+Product: Desk Organizer Bamboo Multi-Tier
+Price: ₹1,199 | Features: 5 compartments, eco-friendly bamboo, modern minimalist design
+Warranty: 1 year | Dimensions: 25x20x30cm
+
+Product: Document Holder Adjustable Stand
+Price: ₹799 | Features: Angle adjustable, holds A4 sheets, non-glare surface
+Warranty: 6 months | Material: Premium plastic + metal frame
+
+Product: Webcam Privacy Shutter Pack
+Price: ₹299 (3-pack) | Features: Snap-on design, works with most webcams, aluminum construction
+Warranty: Lifetime | Fits: Laptops, monitors, tablets
+
+Product: Monitor Light Bar USB
+Price: ₹3,999 | Features: Reduces eye strain, auto-dimming, USB-powered, no screen glare
+Warranty: 1 year | Brightness: 500 lux
+
+Product: Desk Chair Mesh Ergonomic
+Price: ₹12,999 | Features: Lumbar support, adjustable armrests, breathable mesh, 360° swivel
+Warranty: 3 years | Max weight capacity: 120kg
+
+Product: Standing Desk Converter Electric
+Price: ₹24,999 | Features: Dual motor, programmable height presets, silent operation, LED display
+Warranty: 2 years | Height range: 65-125cm
+
+Product: Keyboard Mouse Combo Wireless
+Price: ₹1,499 | Features: 2.4GHz synchronized connectivity, compact design, 18-month battery
+Warranty: 1 year | Includes: AA batteries, USB receiver
+
+Product: Monitor Arm Desk Mount
+Price: ₹2,499 | Features: VESA compatible, full articulation, supports 17-27 inch monitors
+Warranty: 2 years | Weight capacity: 9kg per arm
+
+Product: USB Hub Powered 10-Port
+Price: ₹2,899 | Features: Individual on/off switches, 36W power adapter included, BC 1.2 charging
+Warranty: 1 year | Data transfer: Up to 5Gbps
+
+Product: External Hard Drive 2TB Portable
+Price: ₹4,999 | Features: USB 3.0, compact design, automatic backup software, slim aluminum body
+Warranty: 2 years | Speed: 130MB/s read/write
+
+Product: Graphics Tablet Pen Display
+Price: ₹18,999 | Features: 1920x1080 display, 8192 pressure levels, 8 shortcut keys
+Warranty: 1 year | Best for: Digital artists, designers, animators
+
+Product: Microphone USB Condenser Studio
+Price: ₹3,499 | Features: 16-bit/44kHz audio, cardioid pattern, includes pop filter and tripod
+Warranty: 1 year | Ideal for: Podcasting, streaming, recording
+
+Product: Speaker Bluetooth Portable Waterproof
+Price: ₹2,999 | Features: 20W power, IPX7 waterproof, 12-hour battery, 360° sound
+Warranty: 1 year | Colors: Black, Silver, Red, Blue
+
+Product: Desk Fan Portable USB
+Price: ₹599 | Features: Quiet operation, 3 speed settings, USB-powered, compact design
+Warranty: 6 months | Air flow: Covers 2x2 meter area
+
+Product: Humidifier Desk Mini LED
+Price: ₹1,199 | Features: 500ml capacity, ultrasonic technology, LED night light, auto shut-off
+Warranty: 1 year | Battery: 6-8 hours per charge
+
+Product: Air Purifier Compact Desktop
+Price: ₹4,499 | Features: HEPA filter, 150 CFM, whisper-quiet, covers 15 sq meters
+Warranty: 1 year | Filter replacement: ₹999 (lasts 6 months)
+
+Product: Desk Vacuum Wireless Mini
+Price: ₹1,899 | Features: Cordless, 5000Pa suction, LED light, compact design for keyboard cleaning
+Warranty: 1 year | Battery life: 30 minutes per charge
+
+Product: Anti-glare Screen Film Matte
+Price: ₹399 | Features: Reduces blue light, anti-fingerprint, easy installation, removable adhesive
+Warranty: 6 months | Thickness: 0.3mm, minimal glare reduction
+
+Product: Laptop Sleeve Protective Neoprene
+Price: ₹799 | Features: 15.6 inch compatible, water-resistant, padded interior, laptop handle strap
+Warranty: Lifetime against defects | Color options: 8 available
+
+Return Policy: 7-day no-questions-asked. Refund in 5-7 business days.
+Support: Mon-Sat, 9AM-6PM IST | support@techgear.com
